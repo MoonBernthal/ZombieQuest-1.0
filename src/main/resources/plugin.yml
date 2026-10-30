@@ -1,0 +1,6 @@
+name: ZombieQuest
+version: '1.0-SNAPSHOT'
+main: quest.ZombieQuest
+api-version: '1.20'
+commands:
+  quest:
